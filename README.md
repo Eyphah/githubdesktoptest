@@ -1,4 +1,4 @@
-# co202409da99458bbca3e3b4b
+# scoreboard
 
 Quick start:
 
